@@ -1,7 +1,3 @@
-# Angular + TensorFlow.js
+# angular-tfjs-demo-master
 
-A simple, demo web experienced developed with Angular and TensorFlow.js.
-
-## License
-
-MIT
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-tfjs-demo-master)
